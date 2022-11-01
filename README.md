@@ -11,7 +11,11 @@ Tenho 15 anos, sou estudante de cibersegurança, criador de ctf's e desenvolvedo
 
 ## Development Skills
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=40>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=40>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40>
 </p>
+
+## Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tris0n&show_icons=true&theme=dracula)
