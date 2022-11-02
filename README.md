@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Murilo Caixeta 👋
-Tenho 15 anos, sou estudante de cibersegurança, criador de ctf's e desenvolvedor web. Atualmente estou trabalhando com projetos em PHP, NodeJS e Python e no tempo livre, crio desafios de hacking. Alguns desses projetos, serão publicados aqui no meu github 😉
+Tenho 15 anos, sou estudante de cibersegurança, criador de ctf's e desenvolvedor web. Atualmente estou trabalhando com projetos em PHP, NodeJS e Python, e no tempo livre crio desafios de hacking. Alguns desses projetos, serão publicados aqui no meu github 😉
 
 ## Redes Sociais
 
