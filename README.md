@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Murilo Caixeta 👋
-Tenho 16 anos, sou estudante de cibersegurança, criador de ctf's e desenvolvedor web. Atualmente estou trabalhando com projetos em PHP, NodeJS e Python, e no tempo livre crio desafios de hacking. Alguns desses projetos, serão publicados aqui no meu github 😉
+Tenho 17 anos, sou estudante de cibersegurança, criador de ctf's e desenvolvedor web. Atualmente estou trabalhando com projetos em PHP, NodeJS e Python, e no tempo livre crio desafios de hacking. Alguns desses projetos, serão publicados aqui no meu github 😉
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-caixeta/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo.caixeta_/)
